@@ -138,3 +138,21 @@ footer p{
 } 
 }
 
+@media screen and (max-width:255px) {
+    nav ul li a{
+        padding: 18px;
+        font-size: 12px;
+        margin-top: -8px;
+        /* margin-left: 10px; */
+        margin-right: 0px;
+    }
+
+    #homeBurger{
+        margin-left: 0px;
+        position: absolute;
+    }
+    footer img{
+        margin: 5px;
+    }
+}
+

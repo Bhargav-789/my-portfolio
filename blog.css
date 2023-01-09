@@ -91,5 +91,10 @@ footer p{
     display: flex;
     margin-right: 25px;
     margin-top: 5px;
+    margin-left: 10px;
   }
+
+  footer img{
+    margin: 5px;
+}
 }
